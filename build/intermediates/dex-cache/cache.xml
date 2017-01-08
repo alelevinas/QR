@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_294135ff31bc252a0d65c45bdb49ee8c7dae794e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_b9fb0db69403bf74ccf7f3075c9ea710d41fc6fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_f524a8c107defc6c7a0f938c1c0d4e08969fa296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_a4dc6c32e92c5ece818633792535ed4c51412595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_e5ccb378056096663805f9489eeed77764295e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_98eda19e02f22ecc887855899f7daeb92fc563aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3efc888ff4db76b14afb4727189d4642241155ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_c651c1be5807f33630990560d0d6716d620daeaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_685f16d39612a8552762218f0ddc0379b84498ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_195d761aee490e6b0d3e4cfeac156555deb5298e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_e2e52f25e1224476faf7a401fb3a472942178a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3aefb1d90c9bc80bdfec6373755910e5aeb8f6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dc97cb16818cfcfe56cf7033bbdcfc9f184bf503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_e22f80fe2a84ea82576704179423c5275766dc23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4342cb47525019b3a8b29ea0a47014fb2de95255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_a5a4bd2d453cc304dabe675d2a5ec0e40bcd0bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_31026e424080592fdbc259c326dfe607cd8779be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_9a0c11711a372d482b897127d493c4026a12edcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_58efc8af8ca49113e1d640e35bb13307bf4cae9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_2d791f4e200fc7d8cd37e1c73f26210fd2b0da10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_61c471c88c7a900abf9f805ba643b124179f7879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_87d573d38f8bc85e0eaad350adb7432cb3b29c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_27807ce71466ef8a964627e7a40d9dab7822481c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_e64782654237e2cdf03ce0ac4fdec446ec6c04ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_5e48f03be50e322670f8f31e9473aab711e3ad2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fb374b3632690fd11c5f1a651346f86d43bfa126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_f3e1a45a140d80b403be5c7e6fd73794742876b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_975c9528d18b12f5adca6bd81937bc2775922356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_1ea1a259c9a1bd9a0670a46716914f8a83c8feed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_c31a0a19adda5ae26b85c328f866c998b9f3507e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_088ec41f0e6ecfe0268f423b2ef999ecd6332e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_353675dc01f2e1163d3878e058d943750224b28a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/horacio/git/QR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_81d7b737858a683cbd3e83e08cdc83f1bc4164b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_0cc56d5f5669b98c0545461abc3f8b0ca8f7e537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_404980729f51cbf0e6cd7a4bf6b7bcf9fc13e39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/horacio/git/materiallogindemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/horacio/git/materiallogindemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b9cf91900ce678766a9db76e708e843f84bba502.jar" />
+    </item>
+
+</items>
