@@ -1,20 +1,40 @@
 package com.sourcey.materiallogindemo;
 
+import android.app.ListActivity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by horacio on 1/8/17.
- */
+import com.sourcey.materiallogindemo.MobileArrayAdapter;
+import android.app.ListActivity;
+import android.os.Bundle;
+import android.widget.ListView;
+import android.widget.Toast;
+import android.view.View;
 
-public class VerDeliverysActivity extends AppCompatActivity {
 
+
+public class VerDeliverysActivity extends ListActivity {
+
+    static final String[] MOBILE_OS =
+            new String[] { "Android", "iOS", "WindowsMobile", "Blackberry"};
+
+    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_delivery_ver);
-        ButterKnife.bind(this);
+
+        setListAdapter(new MobileArrayAdapter(this, MOBILE_OS));
+
+    }
+
+    @Override
+    protected void onListItemClick(ListView l, View v, int position, long id) {
+
+        //get selected items
+        String selectedValue = (String) getListAdapter().getItem(position);
+        Toast.makeText(this, selectedValue, Toast.LENGTH_SHORT).show();
+
     }
 
 }
