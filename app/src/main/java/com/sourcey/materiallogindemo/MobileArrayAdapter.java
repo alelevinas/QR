@@ -31,6 +31,7 @@ public class MobileArrayAdapter extends ArrayAdapter<String> {
 
         View rowView = inflater.inflate(R.layout.list_item, parent, false);
         TextView textView = (TextView) rowView.findViewById(R.id.label);
+        TextView entregado = (TextView) rowView.findViewById(R.id.entregado);
         ImageView imageView = (ImageView) rowView.findViewById(R.id.logo);
         textView.setText(values[position]);
 
@@ -41,12 +42,17 @@ public class MobileArrayAdapter extends ArrayAdapter<String> {
 
         if (s.equals("WindowsMobile")) {
             imageView.setImageResource(R.drawable.avatar);
+            entregado.setText("Entregado");
         } else if (s.equals("iOS")) {
             imageView.setImageResource(R.drawable.cerradura_electronica_autonoma_codigo_y_pastilla_c);
+            entregado.setText("No Entregado");
+            //entregado.setTextColor(0);
         } else if (s.equals("Blackberry")) {
             imageView.setImageResource(R.drawable.domo_seguridad_camara);
+            entregado.setText("Entregado");
         } else {
             imageView.setImageResource(R.drawable.logo);
+            entregado.setText("Entregado");
         }
 
         return rowView;

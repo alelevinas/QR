@@ -16,13 +16,27 @@
         android:src="@drawable/avatar">
     </ImageView>
 
-    <TextView
-        android:id="@+id/label"
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@+id/label"
-        android:textSize="50px"
-        android:layout_weight="0.89">
-    </TextView>
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@+id/label"
+            android:textSize="50px"
+            android:layout_weight="0.33">
+        </TextView>
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/entregado"
+            android:layout_weight="0.33" />
+
+    </LinearLayout>
 
 </LinearLayout>
