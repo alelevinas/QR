@@ -11,7 +11,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import static com.sourcey.materiallogindemo.R.id.progressBar;
 
 
 public class MobileArrayAdapter extends ArrayAdapter<String> {
@@ -34,6 +37,7 @@ public class MobileArrayAdapter extends ArrayAdapter<String> {
         TextView entregado = (TextView) rowView.findViewById(R.id.entregado);
         ImageView imageView = (ImageView) rowView.findViewById(R.id.logo);
         textView.setText(values[position]);
+        ProgressBar barra = (ProgressBar) rowView.findViewById(R.id.progressBar);
 
         // Change icon based on name
         String s = values[position];
@@ -43,16 +47,21 @@ public class MobileArrayAdapter extends ArrayAdapter<String> {
         if (s.equals("WindowsMobile")) {
             imageView.setImageResource(R.drawable.avatar);
             entregado.setText("Entregado");
+            barra.setProgress(100);
         } else if (s.equals("iOS")) {
             imageView.setImageResource(R.drawable.cerradura_electronica_autonoma_codigo_y_pastilla_c);
             entregado.setText("No Entregado");
+            barra.setProgress(30);
             //entregado.setTextColor(0);
         } else if (s.equals("Blackberry")) {
             imageView.setImageResource(R.drawable.domo_seguridad_camara);
             entregado.setText("Entregado");
+            barra.setProgress(100);
+            barra.setDrawingCacheBackgroundColor(0);
         } else {
             imageView.setImageResource(R.drawable.logo);
             entregado.setText("Entregado");
+            barra.setProgress(100);
         }
 
         return rowView;

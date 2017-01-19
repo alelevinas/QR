@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="e258aa41f489bf586ac8e8e43f2fe52c7d57b3dd">
+        sha1="f41219b037aa52200ae80ca7d6b078a75bdc5844">
         <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eabeefdfafb91cdae09794823c1de142c7e5cd61/classes.dex" />
     </item>
     <item
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="54a0733ede9b05c4a812984e1df8645f05cf0566">
+        sha1="0e498d0f628ab868ee30e7fdd22998e737244daf">
         <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86fb78ce0f98dfdc583deaf91bb0bf24f5d62fdf/classes.dex" />
     </item>
     <item
