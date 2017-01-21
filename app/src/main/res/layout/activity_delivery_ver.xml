@@ -15,4 +15,9 @@
         android:textAlignment="center"
         android:gravity="center_horizontal"
         android:paddingTop="15dp" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="423dp"
+        android:layout_weight="0.01" />
 </LinearLayout>
