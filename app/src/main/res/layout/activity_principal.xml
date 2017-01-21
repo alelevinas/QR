@@ -22,7 +22,7 @@
         android:layout_weight="0.02"
         tools:text="Su empresa"
         android:gravity="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Menu" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Inverse" />
 
     <TextView
         android:text="Entregador de delivery"
@@ -30,10 +30,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView4"
         android:layout_weight="0.02"
-        android:textAppearance="@android:style/TextAppearance.Material.Title"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
         android:autoText="false"
         android:elegantTextHeight="true"
-        android:textAlignment="center"
         android:gravity="center_horizontal" />
 
     <ImageView
