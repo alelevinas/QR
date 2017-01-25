@@ -3,66 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_8992c444b891f6110a2873f09e7ccc7648714d66/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_529f71b2719594d54a1027a663207d5faa4ec948/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_29f4b3bc09b2c4c5a546faeece81232fdd20109c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_75a6f38a5756282a55eb44a2fcbf60f5a14a85e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a28d8b2c28b5ca6ebdaf98e0ca13ed7963b32cf1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b26aeb3812a953f854ca06fa2b988d84e32aa7ec">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86fb78ce0f98dfdc583deaf91bb0bf24f5d62fdf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_fc20238411b2cf69b3dd367f6cffc20de2a3c3f7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,15 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/juan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_8a3ad4484ae0144bfc222afd13d9e50edd13cddb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -93,21 +30,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jar="/home/juan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c84a5eceb9777fdef486ae80b52c3ff88db0ebfc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_b0ada0dcc2e01643c8b0e33c08ef8542fb99bc33/classes.dex" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_46149b9ff9e4cd011b593460cd4c87873752ed89/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,15 +57,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cebdd38ff799a9bdf0bdc7ed550f8eafe582b083/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -147,21 +66,93 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f41219b037aa52200ae80ca7d6b078a75bdc5844">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eabeefdfafb91cdae09794823c1de142c7e5cd61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_8992c444b891f6110a2873f09e7ccc7648714d66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_29f4b3bc09b2c4c5a546faeece81232fdd20109c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_75a6f38a5756282a55eb44a2fcbf60f5a14a85e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e498d0f628ab868ee30e7fdd22998e737244daf">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86fb78ce0f98dfdc583deaf91bb0bf24f5d62fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_fc20238411b2cf69b3dd367f6cffc20de2a3c3f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c84a5eceb9777fdef486ae80b52c3ff88db0ebfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_b0ada0dcc2e01643c8b0e33c08ef8542fb99bc33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cebdd38ff799a9bdf0bdc7ed550f8eafe582b083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/juan/QR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3ea80c89ae2dd733e15853d78a20b7e7755aa677/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/juan/QR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="45b8d2f3682f91704c173164783e357b04252625">
-        <dex dex="/home/juan/QR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eabeefdfafb91cdae09794823c1de142c7e5cd61/classes.dex" />
     </item>
     <item
         is-multidex="true"
