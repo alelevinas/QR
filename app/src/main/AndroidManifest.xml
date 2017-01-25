@@ -22,6 +22,7 @@
         <activity android:name="com.sourcey.materiallogindemo.CargaDeliveryActivity" android:theme="@style/AppTheme.Dark" />
         <activity android:name="com.sourcey.materiallogindemo.NotificarDeliveryActivity" android:theme="@style/AppTheme.Dark" />
         <activity android:name="com.sourcey.materiallogindemo.VerDeliverysActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.sourcey.materiallogindemo.DeliveryActivity" android:theme="@style/AppTheme.Dark" />
     </application>
 
 </manifest>
