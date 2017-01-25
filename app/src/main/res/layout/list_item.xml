@@ -35,8 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/entregado"
-            android:layout_weight="0.33"
-            tools:textColor="@color/primary_darker" />
+            android:layout_weight="0.33" />
 
         <ProgressBar
             style="?android:attr/progressBarStyleHorizontal"

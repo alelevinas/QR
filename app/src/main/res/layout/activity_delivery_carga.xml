@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:weightSum="1"
@@ -11,7 +10,7 @@
         android:text="Carga de delivery"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/CargaDedelivery"
+        android:id="@+id/textView"
         android:layout_weight="0.00"
         android:textAppearance="@android:style/TextAppearance.Material.Title"
         android:autoText="false"
@@ -27,35 +26,25 @@
         android:id="@+id/imageView1"
         android:layout_weight="0.44" />
 
-
     <TextView
         android:text="Cajas detectadas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView5"
-        android:layout_weight="0.00"
-        android:textStyle="normal|bold"
-        tools:textAppearance="@style/TextAppearance.AppCompat.Widget.Switch"
-        android:gravity="center_horizontal" />
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="2dip"
-        android:background="#848684" />
+        android:layout_weight="0.00" />
+
     <TextView
         android:text="Caja 1: Tuerca Antirobo McGard x 1000"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView6"
-        android:layout_weight="0.00"
-        android:textStyle="normal|bold"
-        android:gravity="center_horizontal" />
+        android:layout_weight="0.00" />
 
     <ImageView
         android:layout_width="45dp"
         android:layout_height="41dp"
         app:srcCompat="@drawable/tuercas_antirrobo_mcgard"
-        android:id="@+id/imageView4"
-        android:layout_gravity="center" />
+        android:id="@+id/imageView4" />
 
     <TextView
         android:text="Dirección de entrega: Av. Rivadavia 456 Piso 5 Oficina 10."
@@ -70,24 +59,18 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView8"
         android:layout_weight="0.00" />
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="2dip"
-        android:background="#848684" />
+
     <TextView
         android:text="Caja 2: Cerradura electronica autónoma ARC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView9"
-        android:textStyle="normal|bold"
-        android:gravity="center_horizontal" />
+        android:id="@+id/textView9" />
 
     <ImageView
         android:layout_width="48dp"
         android:layout_height="44dp"
         app:srcCompat="@drawable/cerradura_electronica_autonoma_codigo_y_pastilla_c"
-        android:id="@+id/imageView2"
-        android:layout_gravity="center" />
+        android:id="@+id/imageView2" />
 
     <TextView
         android:text="Dirección de entrega: Av. Rivadavia 456 Piso 5 Oficina 10."
@@ -102,25 +85,19 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView11"
         android:layout_weight="0.00" />
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="2dip"
-        android:background="#848684" />
+
     <TextView
         android:text="Caja 3: Cámara domo monitorizada 360 CTT"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView12"
-        android:layout_weight="0.00"
-        android:textStyle="normal|bold"
-        android:gravity="center_horizontal" />
+        android:layout_weight="0.00" />
 
     <ImageView
         android:layout_width="48dp"
         android:layout_height="49dp"
         app:srcCompat="@drawable/domo_seguridad_camara"
-        android:id="@+id/imageView3"
-        android:layout_gravity="center" />
+        android:id="@+id/imageView3" />
 
     <TextView
         android:text="Dirección de entrega: Espora 4056 Piso 2"
@@ -135,10 +112,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView14"
         android:layout_weight="0.00" />
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="2dip"
-        android:background="#848684" />
+
     <Button
         android:text="Guardar y cargar mas"
         android:layout_width="match_parent"

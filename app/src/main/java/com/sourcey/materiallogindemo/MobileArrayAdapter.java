@@ -6,8 +6,6 @@ package com.sourcey.materiallogindemo;
 
 import com.sourcey.materiallogindemo.R;
 import android.content.Context;
-import android.content.res.ColorStateList;
-import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -49,24 +47,21 @@ public class MobileArrayAdapter extends ArrayAdapter<String> {
         if (s.equals("WindowsMobile")) {
             imageView.setImageResource(R.drawable.avatar);
             entregado.setText("Entregado");
-            //entregado.setTextColor(Color.GREEN);
-            barra.setProgressTintList(ColorStateList.valueOf(Color.GREEN));
             barra.setProgress(100);
         } else if (s.equals("iOS")) {
             imageView.setImageResource(R.drawable.cerradura_electronica_autonoma_codigo_y_pastilla_c);
             entregado.setText("No Entregado");
             barra.setProgress(30);
-            barra.setProgressTintList(ColorStateList.valueOf(Color.RED));
+            //entregado.setTextColor(0);
         } else if (s.equals("Blackberry")) {
             imageView.setImageResource(R.drawable.domo_seguridad_camara);
             entregado.setText("Entregado");
             barra.setProgress(100);
-            barra.setProgressTintList(ColorStateList.valueOf(Color.GREEN));
+            barra.setDrawingCacheBackgroundColor(0);
         } else {
             imageView.setImageResource(R.drawable.logo);
-            entregado.setText("No Entregado");
-            barra.setProgress(70);
-            barra.setProgressTintList(ColorStateList.valueOf(Color.RED));
+            entregado.setText("Entregado");
+            barra.setProgress(100);
         }
 
         return rowView;
