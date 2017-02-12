@@ -35,6 +35,7 @@
 
     <TextView
         android:text="Caja 1: Tuerca Antirobo McGard x 1000"
+        android:layout_marginTop="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView6"
@@ -62,6 +63,7 @@
 
     <TextView
         android:text="Caja 2: Cerradura electronica autónoma ARC"
+        android:layout_marginTop="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView9" />
@@ -88,6 +90,7 @@
 
     <TextView
         android:text="Caja 3: Cámara domo monitorizada 360 CTT"
+        android:layout_marginTop="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView12"
