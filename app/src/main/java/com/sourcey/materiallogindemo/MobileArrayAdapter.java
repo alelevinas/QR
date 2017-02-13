@@ -14,8 +14,6 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import static com.sourcey.materiallogindemo.R.id.progressBar;
-
 
 public class MobileArrayAdapter extends ArrayAdapter<String> {
     private final Context context;
