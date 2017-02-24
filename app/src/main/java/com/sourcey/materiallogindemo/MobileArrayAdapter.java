@@ -42,24 +42,24 @@ public class MobileArrayAdapter extends ArrayAdapter<String> {
 
         System.out.println(s);
 
-        if (s.equals("WindowsMobile")) {
-            imageView.setImageResource(R.drawable.avatar);
+        if (s.equals("Sillón de oficina modelo Tyson 39")) {
+            imageView.setImageResource(R.drawable.silla);
             entregado.setText("Entregado");
             barra.setProgress(100);
-        } else if (s.equals("iOS")) {
+        } else if (s.equals("Cerradura electronica autónoma ARC")) {
             imageView.setImageResource(R.drawable.cerradura_electronica_autonoma_codigo_y_pastilla_c);
             entregado.setText("No Entregado");
-            barra.setProgress(30);
+            barra.setProgress(0);
             //entregado.setTextColor(0);
-        } else if (s.equals("Blackberry")) {
+        } else if (s.equals("Cámara domo monitorizada 360 CTT")) {
             imageView.setImageResource(R.drawable.domo_seguridad_camara);
-            entregado.setText("Entregado");
-            barra.setProgress(100);
+            entregado.setText("No Entregado");
+            barra.setProgress(0);
             barra.setDrawingCacheBackgroundColor(0);
         } else {
-            imageView.setImageResource(R.drawable.logo);
-            entregado.setText("Entregado");
-            barra.setProgress(100);
+            imageView.setImageResource(R.drawable.tuercas_antirrobo_mcgard);
+            entregado.setText("No Entregado");
+            barra.setProgress(0);
         }
 
         return rowView;

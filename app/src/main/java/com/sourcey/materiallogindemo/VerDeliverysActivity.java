@@ -18,7 +18,7 @@ import android.view.View;
 public class VerDeliverysActivity extends ListActivity {
 
     static final String[] MOBILE_OS =
-            new String[] { "Android", "iOS", "WindowsMobile", "Blackberry"};
+            new String[] { "Tuerca Antirobo McGard x 1000", "Cerradura electronica autónoma ARC", "Sillón de oficina modelo Tyson 39", "Cámara domo monitorizada 360 CTT"};
 
     @Override
     public void onCreate(Bundle savedInstanceState) {

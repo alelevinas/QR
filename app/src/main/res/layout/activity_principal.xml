@@ -60,7 +60,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginBottom="0dp"
         android:padding="0dp"
-        android:text="Carga de delivery" />
+        android:text="Consulta de delivery" />
 
     <android.support.v7.widget.AppCompatButton
         android:id="@+id/notificarDeliveryButton"
